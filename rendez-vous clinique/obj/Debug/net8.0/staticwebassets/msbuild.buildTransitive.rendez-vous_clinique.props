@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\rendez-vous_clinique.props" />
+</Project>

@@ -1,0 +1,29 @@
+D:\projets\gestion des rendez-vous\rendez-vous clinique\rendez-vous clinique\bin\Debug\net8.0\appsettings.Development.json
+D:\projets\gestion des rendez-vous\rendez-vous clinique\rendez-vous clinique\bin\Debug\net8.0\appsettings.json
+D:\projets\gestion des rendez-vous\rendez-vous clinique\rendez-vous clinique\bin\Debug\net8.0\rendez-vous_clinique.staticwebassets.runtime.json
+D:\projets\gestion des rendez-vous\rendez-vous clinique\rendez-vous clinique\bin\Debug\net8.0\rendez-vous_clinique.exe
+D:\projets\gestion des rendez-vous\rendez-vous clinique\rendez-vous clinique\bin\Debug\net8.0\rendez-vous_clinique.deps.json
+D:\projets\gestion des rendez-vous\rendez-vous clinique\rendez-vous clinique\bin\Debug\net8.0\rendez-vous_clinique.runtimeconfig.json
+D:\projets\gestion des rendez-vous\rendez-vous clinique\rendez-vous clinique\bin\Debug\net8.0\rendez-vous_clinique.dll
+D:\projets\gestion des rendez-vous\rendez-vous clinique\rendez-vous clinique\bin\Debug\net8.0\rendez-vous_clinique.pdb
+D:\projets\gestion des rendez-vous\rendez-vous clinique\rendez-vous clinique\obj\Debug\net8.0\rendez-vous clinique.GeneratedMSBuildEditorConfig.editorconfig
+D:\projets\gestion des rendez-vous\rendez-vous clinique\rendez-vous clinique\obj\Debug\net8.0\rendez-vous clinique.AssemblyInfoInputs.cache
+D:\projets\gestion des rendez-vous\rendez-vous clinique\rendez-vous clinique\obj\Debug\net8.0\rendez-vous clinique.AssemblyInfo.cs
+D:\projets\gestion des rendez-vous\rendez-vous clinique\rendez-vous clinique\obj\Debug\net8.0\rendez-vous clinique.csproj.CoreCompileInputs.cache
+D:\projets\gestion des rendez-vous\rendez-vous clinique\rendez-vous clinique\obj\Debug\net8.0\rendez-vous_clinique.MvcApplicationPartsAssemblyInfo.cache
+D:\projets\gestion des rendez-vous\rendez-vous clinique\rendez-vous clinique\obj\Debug\net8.0\staticwebassets.build.json
+D:\projets\gestion des rendez-vous\rendez-vous clinique\rendez-vous clinique\obj\Debug\net8.0\staticwebassets.development.json
+D:\projets\gestion des rendez-vous\rendez-vous clinique\rendez-vous clinique\obj\Debug\net8.0\staticwebassets\msbuild.rendez-vous_clinique.Microsoft.AspNetCore.StaticWebAssets.props
+D:\projets\gestion des rendez-vous\rendez-vous clinique\rendez-vous clinique\obj\Debug\net8.0\staticwebassets\msbuild.build.rendez-vous_clinique.props
+D:\projets\gestion des rendez-vous\rendez-vous clinique\rendez-vous clinique\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.rendez-vous_clinique.props
+D:\projets\gestion des rendez-vous\rendez-vous clinique\rendez-vous clinique\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.rendez-vous_clinique.props
+D:\projets\gestion des rendez-vous\rendez-vous clinique\rendez-vous clinique\obj\Debug\net8.0\staticwebassets.pack.json
+D:\projets\gestion des rendez-vous\rendez-vous clinique\rendez-vous clinique\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+D:\projets\gestion des rendez-vous\rendez-vous clinique\rendez-vous clinique\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+D:\projets\gestion des rendez-vous\rendez-vous clinique\rendez-vous clinique\obj\Debug\net8.0\scopedcss\bundle\rendez-vous_clinique.styles.css
+D:\projets\gestion des rendez-vous\rendez-vous clinique\rendez-vous clinique\obj\Debug\net8.0\scopedcss\projectbundle\rendez-vous_clinique.bundle.scp.css
+D:\projets\gestion des rendez-vous\rendez-vous clinique\rendez-vous clinique\obj\Debug\net8.0\rendez-vous_clinique.dll
+D:\projets\gestion des rendez-vous\rendez-vous clinique\rendez-vous clinique\obj\Debug\net8.0\refint\rendez-vous_clinique.dll
+D:\projets\gestion des rendez-vous\rendez-vous clinique\rendez-vous clinique\obj\Debug\net8.0\rendez-vous_clinique.pdb
+D:\projets\gestion des rendez-vous\rendez-vous clinique\rendez-vous clinique\obj\Debug\net8.0\rendez-vous clinique.genruntimeconfig.cache
+D:\projets\gestion des rendez-vous\rendez-vous clinique\rendez-vous clinique\obj\Debug\net8.0\ref\rendez-vous_clinique.dll

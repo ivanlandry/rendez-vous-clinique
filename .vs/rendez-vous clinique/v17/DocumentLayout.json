@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projets\\gestion des rendez-vous\\rendez-vous clinique\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{200CA122-D485-4601-9D5E-23ABFBD03762}|rendez-vous clinique\\rendez-vous clinique.csproj|d:\\projets\\gestion des rendez-vous\\rendez-vous clinique\\rendez-vous clinique\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{200CA122-D485-4601-9D5E-23ABFBD03762}|rendez-vous clinique\\rendez-vous clinique.csproj|solutionrelative:rendez-vous clinique\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{200CA122-D485-4601-9D5E-23ABFBD03762}|rendez-vous clinique\\rendez-vous clinique.csproj|d:\\projets\\gestion des rendez-vous\\rendez-vous clinique\\rendez-vous clinique\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{200CA122-D485-4601-9D5E-23ABFBD03762}|rendez-vous clinique\\rendez-vous clinique.csproj|solutionrelative:rendez-vous clinique\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{200CA122-D485-4601-9D5E-23ABFBD03762}|rendez-vous clinique\\rendez-vous clinique.csproj|d:\\projets\\gestion des rendez-vous\\rendez-vous clinique\\rendez-vous clinique\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{200CA122-D485-4601-9D5E-23ABFBD03762}|rendez-vous clinique\\rendez-vous clinique.csproj|solutionrelative:rendez-vous clinique\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{200CA122-D485-4601-9D5E-23ABFBD03762}|rendez-vous clinique\\rendez-vous clinique.csproj|d:\\projets\\gestion des rendez-vous\\rendez-vous clinique\\rendez-vous clinique\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{200CA122-D485-4601-9D5E-23ABFBD03762}|rendez-vous clinique\\rendez-vous clinique.csproj|solutionrelative:rendez-vous clinique\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{200CA122-D485-4601-9D5E-23ABFBD03762}|rendez-vous clinique\\rendez-vous clinique.csproj|d:\\projets\\gestion des rendez-vous\\rendez-vous clinique\\rendez-vous clinique\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{200CA122-D485-4601-9D5E-23ABFBD03762}|rendez-vous clinique\\rendez-vous clinique.csproj|solutionrelative:rendez-vous clinique\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{200CA122-D485-4601-9D5E-23ABFBD03762}|rendez-vous clinique\\rendez-vous clinique.csproj|d:\\projets\\gestion des rendez-vous\\rendez-vous clinique\\rendez-vous clinique\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{200CA122-D485-4601-9D5E-23ABFBD03762}|rendez-vous clinique\\rendez-vous clinique.csproj|solutionrelative:rendez-vous clinique\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{200CA122-D485-4601-9D5E-23ABFBD03762}|rendez-vous clinique\\rendez-vous clinique.csproj|d:\\projets\\gestion des rendez-vous\\rendez-vous clinique\\rendez-vous clinique\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{200CA122-D485-4601-9D5E-23ABFBD03762}|rendez-vous clinique\\rendez-vous clinique.csproj|solutionrelative:rendez-vous clinique\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{200CA122-D485-4601-9D5E-23ABFBD03762}|rendez-vous clinique\\rendez-vous clinique.csproj|d:\\projets\\gestion des rendez-vous\\rendez-vous clinique\\rendez-vous clinique\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{200CA122-D485-4601-9D5E-23ABFBD03762}|rendez-vous clinique\\rendez-vous clinique.csproj|solutionrelative:rendez-vous clinique\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "D:\\projets\\gestion des rendez-vous\\rendez-vous clinique\\rendez-vous clinique\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "rendez-vous clinique\\Components\\Routes.razor",
+              "ToolTip": "D:\\projets\\gestion des rendez-vous\\rendez-vous clinique\\rendez-vous clinique\\Components\\Routes.razor",
+              "RelativeToolTip": "rendez-vous clinique\\Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-26T04:37:23.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\projets\\gestion des rendez-vous\\rendez-vous clinique\\rendez-vous clinique\\Program.cs",
+              "RelativeDocumentMoniker": "rendez-vous clinique\\Program.cs",
+              "ToolTip": "D:\\projets\\gestion des rendez-vous\\rendez-vous clinique\\rendez-vous clinique\\Program.cs",
+              "RelativeToolTip": "rendez-vous clinique\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T04:36:43.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\projets\\gestion des rendez-vous\\rendez-vous clinique\\rendez-vous clinique\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "rendez-vous clinique\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "D:\\projets\\gestion des rendez-vous\\rendez-vous clinique\\rendez-vous clinique\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "rendez-vous clinique\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-26T04:33:57.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\projets\\gestion des rendez-vous\\rendez-vous clinique\\rendez-vous clinique\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "rendez-vous clinique\\Components\\Pages\\Home.razor",
+              "ToolTip": "D:\\projets\\gestion des rendez-vous\\rendez-vous clinique\\rendez-vous clinique\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "rendez-vous clinique\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-26T04:33:17.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\projets\\gestion des rendez-vous\\rendez-vous clinique\\rendez-vous clinique\\appsettings.json",
+              "RelativeDocumentMoniker": "rendez-vous clinique\\appsettings.json",
+              "ToolTip": "D:\\projets\\gestion des rendez-vous\\rendez-vous clinique\\rendez-vous clinique\\appsettings.json",
+              "RelativeToolTip": "rendez-vous clinique\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-26T04:33:06.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\projets\\gestion des rendez-vous\\rendez-vous clinique\\rendez-vous clinique\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "rendez-vous clinique\\Components\\_Imports.razor",
+              "ToolTip": "D:\\projets\\gestion des rendez-vous\\rendez-vous clinique\\rendez-vous clinique\\Components\\_Imports.razor",
+              "RelativeToolTip": "rendez-vous clinique\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-26T04:33:00.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.razor",
+              "DocumentMoniker": "D:\\projets\\gestion des rendez-vous\\rendez-vous clinique\\rendez-vous clinique\\Components\\App.razor",
+              "RelativeDocumentMoniker": "rendez-vous clinique\\Components\\App.razor",
+              "ToolTip": "D:\\projets\\gestion des rendez-vous\\rendez-vous clinique\\rendez-vous clinique\\Components\\App.razor",
+              "RelativeToolTip": "rendez-vous clinique\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-26T04:32:53.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "D:\\projets\\gestion des rendez-vous\\rendez-vous clinique\\rendez-vous clinique\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "rendez-vous clinique\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "D:\\projets\\gestion des rendez-vous\\rendez-vous clinique\\rendez-vous clinique\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "rendez-vous clinique\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-26T04:33:55.083Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

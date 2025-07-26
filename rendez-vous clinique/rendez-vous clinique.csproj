@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>rendez-vous clinique</RootNamespace>
+    <AssemblyName>$(AssemblyName.Replace(' ', '_'))</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Data\" />
+    <Folder Include="DTO\" />
+    <Folder Include="Entities\" />
+    <Folder Include="Services\" />
+  </ItemGroup>
+
+</Project>
