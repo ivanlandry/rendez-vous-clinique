@@ -17,6 +17,8 @@ build_property.SupportLocalizedComponentNames =
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = D:\projets\gestion des rendez-vous\rendez-vous clinique\rendez-vous clinique
 build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
 
 [D:/projets/gestion des rendez-vous/rendez-vous clinique/rendez-vous clinique/Components/App.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
@@ -28,6 +30,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/projets/gestion des rendez-vous/rendez-vous clinique/rendez-vous clinique/Components/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projets/gestion des rendez-vous/rendez-vous clinique/rendez-vous clinique/Components/Pages/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xMb2dpbi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/projets/gestion des rendez-vous/rendez-vous clinique/rendez-vous clinique/Components/Routes.razor]

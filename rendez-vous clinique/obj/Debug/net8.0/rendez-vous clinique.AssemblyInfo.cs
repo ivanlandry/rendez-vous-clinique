@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("rendez-vous_clinique")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc0289166be531e60205b4f2fbf3513b219d4274")]
 [assembly: System.Reflection.AssemblyProductAttribute("rendez-vous_clinique")]
 [assembly: System.Reflection.AssemblyTitleAttribute("rendez-vous_clinique")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
